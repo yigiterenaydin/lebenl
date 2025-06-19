@@ -12,10 +12,10 @@ const config: Config = {
     },
     extend: {
       colors: {
-        primary: "#727272",
-        secondary: "#0c0c0d",
-        tertiary: "#111",
-        borderColor: "#3e3e3e",
+        primary: "#111", // yazilar cogu yerde
+        secondary: "#f10909",
+        tertiary: "#bff109", // büyük karelerin pdflerin olduyu büyük karelerin al kismin ilk renk 
+        borderColor: "#f10909", // bütün karelerin ince sizgisi 
       },
     },
   },
